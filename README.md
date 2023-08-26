@@ -1,2 +1,2 @@
 # next-boilerplate
-Startup
+Startup.
